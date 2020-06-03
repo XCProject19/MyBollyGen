@@ -1,0 +1,31 @@
+{
+  "allgenre" : [
+   {
+  "title" : "Action",
+  "cover" : "https://1.bp.blogspot.com/-Ejmh5qq--WE/XqA0mLjFCJI/AAAAAAAAE-U/1YcvAOj29RM6CFWhqPSBQUttAh7qXZ-SACLcBGAsYHQ/s320/star.jpg",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MyBlyUniCode/master/",
+  "tag" : "action"
+  }
+  ,
+  {
+  "title" : "Horror",
+  "cover" : "https://1.bp.blogspot.com/-LEXLLkqFNLc/XqHg6-Y523I/AAAAAAAAFAY/7s-m-K1k_Act0SThEU7tJJcnyZgXsmEOgCLcBGAsYHQ/s320/cover.jpg",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MyBlyUniCode/master/",
+  "tag" : "horror"
+  }
+ ,
+  {
+  "title" : "Comedy",
+  "cover" : "https://1.bp.blogspot.com/-LEXLLkqFNLc/XqHg6-Y523I/AAAAAAAAFAY/7s-m-K1k_Act0SThEU7tJJcnyZgXsmEOgCLcBGAsYHQ/s320/cover.jpg",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MyBlyUniCode/master/",
+  "tag" : "comedy"
+  }
+ ,
+  {
+  "title" : "Drama",
+  "cover" : "https://scontent.frgn9-1.fna.fbcdn.net/v/t1.0-9/47245428_1856643714444097_3612251238931890176_o.jpg?_nc_cat=108&_nc_sid=730e14&_nc_eui2=AeFJGwT-8hOaje57JJ6YfgxlclIxZsWibf1yUjFmxaJt_Vxt60Y7jrUaPsLSRl1yx3Ea-oJ9ARm_9o82ow4l6pmz&_nc_ohc=tupTjEuZdasAX9pYSy7&_nc_ht=scontent.frgn9-1.fna&oh=c1af5948d7b52e468cbb497d3c7d864c&oe=5EFB20E8",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MyBlyUniCode/master/",
+  "tag" : "drama"
+  }
+]
+}
